@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TorusTone</string>
+
+    <!-- Navigation -->
+    <string name="nav_play">Torus</string>
+    <string name="nav_sculpt">Sculpt</string>
+    <string name="nav_orbit">Orbit</string>
+
+    <!-- Play Screen -->
+    <string name="play_subtitle">HARMONIC TORUS SYNTH</string>
+    <string name="mode_torus_3d">3D Torus</string>
+    <string name="mode_tonnetz_grid">Tonnetz</string>
+    <string name="touch_mode_triad">Triads</string>
+    <string name="touch_mode_note">Notes</string>
+    <string name="action_latch">Latch</string>
+    <string name="action_silence">Silence</string>
+    <string name="octave_label">OCT %1$d</string>
+    <string name="octave_down_desc">Decrease octave</string>
+    <string name="octave_up_desc">Increase octave</string>
+    <string name="active_voices_empty">Touch torus nodes or triads to resonate</string>
+    <string name="hint_torus_3d">Drag to spin torus • Tap nodes to play</string>
+    <string name="hint_tonnetz">Tap or glide across nodes &amp; triad faces</string>
+    <string name="scale_label">Scale</string>
+
+    <!-- Sculpt Screen -->
+    <string name="sculpt_title">Acoustic Sculpt</string>
+    <string name="sculpt_subtitle">Real-time polyphonic DSP engine</string>
+    <string name="section_timbre">Oscillator Timbre</string>
+    <string name="section_tone_space">Filter &amp; Spatial Echo</string>
+    <string name="section_envelope">Envelope &amp; Modulation</string>
+    <string name="section_tuning">Temperament &amp; Reference</string>
+    <string name="param_warmth">Filter Cutoff</string>
+    <string name="param_echo_mix">Echo Space</string>
+    <string name="param_echo_feedback">Echo Tail</string>
+    <string name="param_attack">Attack</string>
+    <string name="param_release">Release</string>
+    <string name="param_detune">Detune Spread</string>
+    <string name="param_master_gain">Master Output</string>
+    <string name="temperament_equal">12-TET Equal</string>
+    <string name="temperament_just">Pure Just</string>
+    <string name="audition_major">Audition Maj</string>
+    <string name="audition_minor">Audition Min</string>
+    <string name="audition_maj7">Audition Maj7</string>
+
+    <!-- Orbit Screen -->
+    <string name="orbit_title">Harmonic Orbit</string>
+    <string name="orbit_subtitle">Toroidal chord &amp; arpeggio sequencer</string>
+    <string name="orbit_play">Launch Orbit</string>
+    <string name="orbit_stop">Pause Orbit</string>
+    <string name="orbit_bpm">%1$d BPM</string>
+    <string name="orbit_root_key">Center Key</string>
+    <string name="orbit_patterns">Geometric Trajectories</string>
+    <string name="orbit_steps_title">Orbital Steps</string>
+    <string name="orbit_arp_mode">Voicing Style</string>
+    <string name="voicing_chord">Full Triad</string>
+    <string name="voicing_arp_up">Arp Ascend</string>
+    <string name="voicing_arp_wave">Torus Wave</string>
+    <string name="banner_content_desc">TorusTone studio acoustic torus artwork</string>
+    <string name="info_torus_theory">Tonnetz Geometry</string>
+    <string name="info_torus_body">Along a Tonnetz torus, horizontal steps move by Perfect Fifths (+7), diagonals move by Major (+4) and Minor (+3) Thirds. Upward triangles form Major triads; downward triangles form Minor triads.</string>
+    <string name="action_close">Close</string>
+</resources>
